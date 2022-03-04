@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentCounter</string>
+    <string name="txt_butterflies">Бабочек</string>
+    <string name="btn_butterflies">Добавить бабочку</string>
+</resources>
